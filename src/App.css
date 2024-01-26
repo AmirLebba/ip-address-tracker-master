@@ -94,7 +94,7 @@ form article h1 {
 /*media query for desktop*/
 @media screen and (min-width: 768px) {
   section h1 {
-    font-size: 35px;
+    font-size: 34px;
 
     padding-top: 50px;
     padding-bottom: 30px;
